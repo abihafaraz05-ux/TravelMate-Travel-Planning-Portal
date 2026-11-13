@@ -1,5 +1,3 @@
-# TravelMate-Travel-Planning-Portal
-Python based travel planning and management portal
 # TravelMate – Travel Planning and Management Portal
 
 ## Project Overview
