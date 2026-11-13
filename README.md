@@ -38,7 +38,7 @@ It uses Python for backend development, JSON for data storage and Streamlit for 
 | users.json | User account data |
 | travel_plans.json | Travel plan records |
 | TravelMate_Notebook.ipynb | Code explanations and test runs |
-| requirements.txt | Required Python packages |
+| requirements.txt | Required Python packages 
 
 ## Installation and Execution
 
@@ -78,8 +78,8 @@ This project demonstrates modular programming, loops, conditional statements, ex
 
 ## Developers
 
-- Member 1: [Name and Roll Number]
-- Member 2: [Name and Roll Number]
+- Member 1: Abiha Faraz (25L-5199)
+- Member 2: Noor Fatima (25L-5164)
 
 FAST School of Management  
 National University of Computer and Emerging Sciences
